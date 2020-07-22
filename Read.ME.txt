@@ -1,0 +1,10 @@
+This project is a game created purely using Web-elements
+I have used the Paper.js library for vector graphic sripting.
+
+The Ball goes to random positions starting from a higher number going to a lower number
+If you hit it early you get the higher point.
+
+Use arrow keys to move
+and Space bar to shoot
+
+Happy Playing
