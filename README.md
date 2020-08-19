@@ -1,5 +1,6 @@
 
 # Hit the Ball
+## https://404kartik.github.io/Hit-the-Ball/
 Hit the ball is a web based game where in you have to shoot the randomly generated number.
 ## Technologies used to build
 The following technologies were used to make this web game possible
